@@ -1,0 +1,10 @@
+id=1
+orientation=0
+name=Professeur Sorbier
+dialogue=This is a pokémon !
+object=pokémon
+id=2
+orientation=1
+name=Dresseur
+dialogue=I'm gonna beat you !
+object=NULL

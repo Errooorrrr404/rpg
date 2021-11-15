@@ -1,0 +1,530 @@
+//0
+Name:Tortipouss
+x:22
+y:13
+Evolve_level:18
+Next_id:1
+Type1:PLANTE
+Type2:NULL
+Type3:NULL
+74 0
+365 9
+463 13
+431 17
+258 21
+267 25
+443 29
+406 33
+257 37
+206 41
+412 45
+#STATS
+PV:55
+Attaque:68
+Defense:64
+Vitesse:31
+//1
+Name:Boskara
+x:23
+y:13
+Evolve_level:32
+Next_id:2
+Type1:PLANTE
+Type2:NULL
+Type3:NULL
+74 0
+365 9
+463 13
+431 17
+258 21
+267 25
+443 29
+406 33
+257 37
+206 41
+412 45
+#STATS
+PV:75
+Attaque:89
+Defense:85
+Vitesse:36
+//2
+Name:Tortera
+x:24
+y:13
+Evolve_level:--
+Next_id:--
+Type1:PLANTE
+Type2:SOL
+Type3:NULL
+74 0
+365 9
+463 13
+431 17
+258 21
+267 25
+443 29
+406 33
+257 37
+206 41
+412 45
+#STATS
+PV:95
+Attaque:109
+Defense:105
+Vitesse:56
+//3
+Name:Ouisticram
+x:25
+y:13
+Evolve_level:14
+Next_id:4
+Type1:FEU
+Type2:NULL
+Type3:NULL
+213 0
+220 0
+185 7
+338 9
+87 15
+375 17
+256 23
+425 25
+177 31
+116 33
+292 41
+243 47
+#STATS
+PV:44
+Attaque:58
+Defense:44
+Vitesse:61
+//4
+Name:Chimpenfeu
+x:26
+y:13
+Evolve_level:36
+Next_id:5
+Type1:FEU
+Type2:COMBAT
+Type3:NULL
+213 0
+220 0
+185 7
+338 9
+87 15
+375 17
+256 23
+425 25
+177 31
+116 33
+292 41
+243 47
+#STATS
+PV:64
+Attaque:78
+Defense:52
+Vitesse:81
+//5
+Name:Simiabraz
+x:27
+y:13
+Evolve_level:--
+Next_id:--
+Type1:FEU
+Type2:COMBAT
+Type3:NULL
+213 0
+220 0
+185 7
+338 9
+87 15
+375 17
+256 23
+425 25
+177 31
+116 33
+292 41
+243 47
+#STATS
+PV:76
+Attaque:104
+Defense:71
+Vitesse:108
+//6
+Name:Tiplouf
+x:0
+y:14
+Evolve_level:16
+Next_id:7
+Type1:EAU
+Type2:NULL
+Type3:NULL
+159 0
+377 4
+160 8
+119 11
+302 15
+214 16
+64 19
+446 24
+202 28
+383 33
+20 36
+388 39
+62 46
+44 52
+227 59
+#STATS
+PV:53
+Attaque:51
+Defense:53
+Vitesse:40
+//7
+Name:Prinplouf
+x:1
+y:14
+Evolve_level:36
+Next_id:8
+Type1:EAU
+Type2:NULL
+Type3:NULL
+159 0
+377 4
+160 8
+119 11
+302 15
+214 16
+64 19
+446 24
+202 28
+383 33
+20 36
+388 39
+62 46
+44 52
+227 59
+#STATS
+PV:64
+Attaque:66
+Defense:68
+Vitesse:50
+//8
+Name:Pingoleon
+x:2
+y:14
+Evolve_level:--
+Next_id:--
+Type1:EAU
+Type2:ACIER
+Type3:NULL
+159 0
+377 4
+160 8
+119 11
+302 15
+214 16
+64 19
+446 24
+202 28
+383 33
+20 36
+388 39
+62 46
+44 52
+227 59
+#STATS
+PV:84
+Attaque:86
+Defense:88
+Vitesse:60
+//9
+Name:Etourmi
+x:3
+y:14
+Evolve_level:14
+Next_id:10
+Type1:NORMAL
+Type2:VOL
+Type3:NULL
+74 0
+377 0
+457 5
+111 9
+359 13
+161 17
+112 21
+8 25
+45 29
+223 33
+352 37
+#STATS
+PV:40
+Attaque:55
+Defense:30
+Vitesse:60
+//10
+Name:Etourvol
+x:4
+y:14
+Evolve_level:34
+Next_id:11
+Type1:NORMAL
+Type2:VOL
+Type3:NULL
+74 0
+377 0
+457 5
+111 9
+359 13
+161 17
+112 21
+8 25
+45 29
+223 33
+352 37
+#STATS
+PV:55
+Attaque:75
+Defense:50
+Vitesse:80
+//11
+Name:Etouraptor
+x:5
+y:14
+Evolve_level:--
+Next_id:--
+Type1:NORMAL
+Type2:VOL
+Type3:NULL
+74 0
+377 0
+457 5
+111 9
+359 13
+161 17
+112 21
+8 25
+45 29
+223 33
+352 37
+#STATS
+PV:85
+Attaque:120
+Defense:70
+Vitesse:100
+//12
+Name:Keunotor
+x:6
+y:14
+Evolve_level:15
+Next_id:13
+Type1:NORMAL
+Type2:NULL
+Type3:NULL
+74 0
+377 5
+56 9
+376 13
+95 17
+103 21
+34 25
+12 29
+45 33
+104 37
+405 41
+258 45
+#STATS
+PV:59
+Attaque:45
+Defense:40
+Vitesse:31
+//13
+Name:Castorno
+x:7
+y:14
+Evolve_level:--
+Next_id:--
+Type1:NORMAL
+Type2:EAU
+Type3:NULL
+74 0
+377 5
+56 9
+376 13
+95 17
+103 21
+34 25
+12 29
+45 33
+104 37
+405 41
+258 45
+#STATS
+PV:79
+Attaque:85
+Defense:60
+Vitesse:71
+//14
+Name:Crikzik
+x:8
+y:14
+Evolve_id:10
+Next_id:15
+Type1:INSECTE
+Type2:NULL
+Type3:NULL
+377 0
+294 0
+#STATS
+PV:37
+Attaque:25
+Defense:41
+Vitesse:25
+//15
+Name:Melokrik
+x:9
+y:14
+Evolve_level:--
+Next_id:--
+Type1:INSECTE
+Type2:NULL
+Type3:NULL
+377 0
+294 0
+#STATS
+PV:77
+Attaque:85
+Defense:51
+Vitesse:65
+//16
+Name:Lixy
+x:10
+y:14
+Evolve_level:15
+Next_id:17
+Type1:ELEKTRIK
+Type2:NULL
+Type3:NULL
+74 0
+220 5
+76 9
+171 13
+276 17
+224 21
+446 25
+107 29
+257 33
+216 37
+96 41
+#STATS
+PV:45
+Attaque:65
+Defense:34
+Vitesse:45
+//17
+Name:Luxio
+x:11
+y:14
+Evolve_level:30
+Next_id:18
+Type1:ELEKTRIK
+Type2:NULL
+Type3:NULL
+74 0
+220 5
+76 9
+171 13
+276 17
+224 21
+446 25
+107 29
+257 33
+216 37
+96 41
+#STATS
+PV:60
+Attaque:85
+Defense:49
+Vitesse:60
+//18
+Name:Luxray
+x:12
+y:14
+Evolve_level:--
+Next_id:--
+Type1:ELEKTRIK
+Type2:NULL
+Type3:NULL
+74 0
+220 5
+76 9
+171 13
+276 17
+224 21
+446 25
+107 29
+257 33
+216 37
+96 41
+#STATS
+PV:80
+Attaque:120
+Defense:79
+Vitesse:70
+//19
+Name:Pikachu
+x:24
+y:0
+Evolve_level:--
+Next_id:--
+Type1:ELEKTRIK
+Type2:NULL
+Type3:NULL
+152 0
+271 0
+377 5
+457 10
+66 18
+379 21
+359 23
+171 26
+96 34
+392 37
+419 42
+223 45
+278 53
+178 58
+#STATS
+PV:35
+Attaque:55
+Defense:30
+Vitesse:90
+//20
+Name:Bulbizarre
+x:0
+y:0
+Evolve_level:16
+Next_id:21
+Type1:PLANTE
+Type2:NULL
+Type3:NULL
+74 0
+377 3
+443 7
+195 9
+330 13
+329 13
+45 15
+431 19
+140 21
+110 25
+113 27
+391 31
+407 33
+69 37
+#STATS
+PV:45
+Attaque:49
+Defense:49
+Vitesse:45

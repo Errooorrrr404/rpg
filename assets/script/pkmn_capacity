@@ -1,0 +1,467 @@
+Abime Sol Physique -- 30 5 1 
+Abri Normal Autres -- -- 10 Lanceur 
+Acidarmure Poison Autres -- -- 40 Lanceur 
+Acide Poison Spécial 40 100 30 2 
+Acupression Normal Autres -- -- 30 1 Oui
+Adaptation Normal Autres -- -- 30 Lanceur 
+Adaptation2 Normal Autres -- 100 30 Lanceur 
+Aeroblast Vol Spécial 100 95 25 1 Oui
+Aeropique Vol Physique 60 -- 20 1 Oui
+Affutage Normal Autres -- -- 30 Lanceur 
+Aile D'acier Acier Physique 70 80 25 1 Oui
+Air Veinard Normal Autres -- -- 30 2 
+Amnesie Psy Autres -- -- 20 Lanceur 
+Ampleur Sol Physique -- 100 30 3 
+Anneau Hydro Eau Autres -- -- 20 Lanceur 
+Anti-Brume Vol Autres -- -- 15 1 
+Anti-Soin Psy Autres -- 100 15 2 
+Appel Attak Insecte Physique 90 100 15 1 
+Appel Défens Insecte Autres -- -- 10 Lanceur 
+Appel Soins Insecte Autres -- -- 10 Lanceur 
+Aqua-Jet Eau Physique 40 100 20 1 Oui
+Armure Normal Autres -- -- 30 Lanceur 
+Aromatherapi Plante Autres -- -- 5 Lanceur 
+Assistance Normal Autres -- 100 20 ??? 
+Assurance Tenebres Physique 50 100 10 1 Oui
+Astuce Force Psy Autres -- -- 10 Lanceur 
+Atout Normal Spécial -- -- 5 1 Oui
+Atterrissage Vol Autres -- -- 10 Lanceur 
+Attraction Normal Autres -- 100 15 1 
+Aurasphère Combat Spécial 90 -- 20 1 
+Aurore Normal Autres -- -- 5 Lanceur 
+Avalanche Glace Physique 15 85 20 1 Oui
+Avale Normal Autres -- -- 10 Lanceur 
+Babil Vol Spécial 60 100 20 1 
+Baillement Normal Autres -- 100 10 1 
+Balance Normal Autres -- 100 20 1 
+Balayage Combat Physique -- 100 20 1 Oui
+Ball'brume Psy Spécial 70 100 5 1 
+Balle Graine Plante Physique 10 100 30 1 
+Ball'glace Glace Physique 30 90 2 1 Oui
+Ball'meteo Normal Spécial 50 100 10 1 
+Ball'ombre Spectre Spécial 80 100 15 1 
+Barrage Normal Autres -- 100 5 1 
+Baston Tenebres Physique 10 100 10 1 
+Bec Vrille Vol Physique 80 100 20 1 Oui
+Belier Normal Physique 90 85 20 1 Oui
+Berceuse Normal Autres -- 55 15 1 
+Blabla Dodo Normal Autres -- -- 10 ??? 
+Blizzard Glace Spécial 120 70 5 2 
+Bluff Normal Physique 40 100 10 1 
+Bombaimant Acier Physique 60 -- 20 1 
+Bomb-beurk Poison Spécial 90 100 10 1 
+Bomb'oeuf Normal Physique 100 75 10 1 
+Boost Normal Autres -- -- 10 1 
+Bouclier Psy Autres -- -- 30 Lanceur 
+Boue-Bombe Sol Spécial 65 85 10 1 
+Boul'armure Normal Autres -- -- 40 Lanceur 
+Boule Roc Roche Physique 25 80 10 1 
+Bourdon Insecte Spécial 90 100 10 1 
+Boutefeu Feu Physique 120 100 15 1 Oui
+Brouhaha Normal Spécial 50 100 10 Aléatoire 
+Brouillard Normal Autres -- 100 20 1 
+Brume Glace Autres -- -- 30 Lanceur 
+Buee Noire Glace Autres -- -- 30 Tous 
+Bulles D'o Eau Spécial 65 100 20 1 
+Cadeau Normal Physique -- 90 15 1 
+Cage-eclair Electrik Autres -- 100 20 1 
+Camouflage Normal Autres -- 100 20 Lanceur 
+Canicule Feu Spécial 100 90 10 2 
+Canon Graine Plante Physique 80 100 15 1 
+Carnareket Acier Spécial 120 85 5 1 
+Cascade Eau Physique 80 100 15 1 Oui
+Casse-brique Combat Physique 75 100 15 1 Oui
+Cauchemar Spectre Autres -- 100 15 1 
+Charge Normal Physique 35 95 35 1 Oui
+Charge-os Sol Physique 25 80 10 1 
+Chargeur Electrik Autres -- 100 20 Lanceur 
+Charme Normal Autres -- 100 20 1 
+Chatouille Normal Autres -- 100 20 1 Oui
+Choc Mental Psy Spécial 50 100 25 1 
+Clairvoyance Normal Autres -- 100 40 1 
+Claquoir Eau Physique 35 75 10 1 Oui
+Clonage Normal Autres -- -- 10 Lanceur 
+Close Combat Combat Physique 120 100 5 1 Oui
+Cogne Combat Physique 15 100 20 1 Oui
+Cognobidon Normal Autres -- -- 10 Lanceur 
+Colere Dragon Physique 120 100 15 Aléatoire Oui
+Combo-griffe Normal Physique 18 80 15 1 Oui
+Constriction Normal Physique 10 100 35 1 Oui
+Contre Combat Physique -- 100 15 1 Oui
+Copie Normal Autres -- 100 10 1 
+Corps Perdu Combat Physique 70 100 10 1 Oui
+Coud'boue Sol Spécial 20 100 10 1 
+Coud'krane Normal Physique 100 100 15 1 Oui
+Coup Bas Tenebres Physique 80 100 5 1 Oui
+Coup D'boule Normal Physique 70 100 15 1 Oui
+Coup d'Jus Electrik Spécial 80 100 15 3 
+Coup D'main Normal Autres -- 100 20 Lanceur 
+Coup Double Normal Physique 35 90 10 1 Oui
+Coup-croix Combat Physique 100 80 5 1 Oui
+Coupe Normal Physique 50 95 30 1 Oui
+Coupe Psycho Psy Physique 70 100 20 1 
+Coupe-vent Normal Spécial 80 100 10 2 
+Croc De Mort Normal Physique 80 90 15 1 Oui
+Croc Fatal Normal Physique -- 90 10 1 Oui
+Crochetvenin Poison Physique 50 100 15 1 Oui
+Croco Larme Tenebres Autres -- 100 20 1 
+Crocs Eclair Electrik Physique 65 95 15 1 Oui
+Crocs Feu Feu Physique 65 95 15 1 Oui
+Crocs Givre Glace Physique 65 95 15 1 Oui
+Croissance Normal Autres -- -- 40 Lanceur 
+Cru-aile Vol Physique 60 100 35 1 Oui
+Cyclone Normal Autres -- 100 20 1 
+Damocles Normal Physique 120 100 15 1 Oui
+Danse Draco Dragon Autres -- -- 20 Lanceur 
+Danse Pluie Eau Autres -- -- 5 Lanceur 
+Danseflamme Feu Spécial 15 70 15 1 
+Danse-fleur Plante Spécial 90 100 20 Aléatoire Oui
+Danse-folle Normal Autres -- 100 20 3 
+Danse-lames Normal Autres -- -- 30 Lanceur 
+Danse-Lune Psy Autres -- -- 10 Lanceur 
+Danse-plume Vol Autres -- 100 15 1 
+Dard-nuee Insecte Physique 14 85 20 1 
+Dard-venin Poison Physique 15 100 35 1 
+Deflagration Feu Spécial 120 85 5 1 
+Dégommage Tenebres Physique -- 100 10 1 
+Demi-Tour Insecte Physique 70 100 20 1 Oui
+Depit Spectre Autres -- 100 10 1 
+Dernierecour Normal Physique 130 100 5 1 Oui
+Destruction Normal Physique 200 100 5 3 
+Detection Combat Autres -- -- 5 Lanceur 
+Détricanon Poison Physique 120 70 5 1 
+Detritus Poison Spécial 65 100 20 1 
+Devoreve Psy Spécial 100 100 15 1 
+Direct Toxik Poison Physique 80 100 20 1 Oui
+Distorsion Psy Autres -- -- 5 Tous 
+Don Naturel Normal Physique -- 100 15 1 
+Double Pied Combat Physique 30 100 30 1 Oui
+Double-dard Insecte Physique 25 100 20 1 
+Doux Baiser Normal Autres -- 75 10 1 
+Doux Parfum Normal Autres -- 100 20 2 
+Draco Météor Dragon Spécial 140 90 5 1 
+Dracocharge Dragon Physique 100 75 10 1 Oui
+Dracochoc Dragon Spécial 90 100 10 1 
+Dracogriffe Dragon Physique 80 100 15 1 Oui
+Draco-rage Dragon Spécial -- 100 10 1 
+Dracosouffle Dragon Spécial 60 100 20 1 
+Dynamopoing Combat Physique 100 50 5 1 Oui
+Eboulement Roche Physique 75 90 10 2 
+Ebullilave Feu Spécial 80 100 15 3 
+Echange Psy Autres -- 100 10 1 
+Echange Psy Psy Autres -- 90 10 1 
+Eclair Electrik Spécial 40 100 30 1 
+Eclategriffe Normal Physique 75 95 10 1 Oui
+Eclate-roc Combat Physique 20 100 15 1 Oui
+Eclats Glace Glace Physique 40 100 30 1 
+E-coque Normal Autres -- 100 10 Lanceur 
+Eco-Sphère Plante Spécial 80 100 10 1 
+Ecrasement Normal Physique 65 100 20 1 Oui
+Ecras'face Normal Physique 40 100 35 1 Oui
+Ecume Eau Spécial 20 100 30 2 
+Effort Normal Physique -- 100 5 1 Oui
+Elecanon Electrik Spécial 100 50 5 1 
+Electacle Electrik Physique 120 100 15 1 Oui
+Embargo Tenebres Autres -- 100 15 1 
+Empal'korne Normal Physique -- 30 5 1 Oui
+Encore Normal Autres -- 100 5 1 
+Entrave Normal Autres -- 80 20 1 
+Eruption Feu Spécial 150 100 5 2 
+Escalade Normal Physique 90 85 20 1 Oui
+Essorage Normal Spécial -- 100 5 1 Oui
+Etincelle Electrik Physique 65 100 20 1 Oui
+Etonnement Spectre Physique 30 100 15 1 Oui
+Etreinte Normal Physique 15 75 20 1 Oui
+Exploforce Combat Spécial 120 70 5 1 
+Explosion Normal Physique 250 100 5 3 
+Extrasenseur Psy Spécial 80 100 30 1 
+Facade Normal Physique 70 100 20 1 Oui
+Fatal-foudre Electrik Spécial 120 70 10 1 
+Faux-chage Normal Physique 40 100 40 1 Oui
+Feinte Tenebres Physique 60 -- 20 1 
+Feu Follet Feu Autres -- 75 15 1 
+Feu Sacre Feu Spécial 100 95 5 1 
+Feuillemagik Plante Spécial 60 -- 20 1 
+Flair Normal Autres -- 100 40 1 
+Flammeche Feu Spécial 40 100 25 1 
+Flash Normal Autres -- 100 20 1 
+Flatterie Tenebres Autres -- 100 15 1 
+Fleau Normal Physique -- 100 15 1 Oui
+Force Normal Physique 80 100 15 1 Oui
+Force Cachee Normal Physique 70 100 20 1 
+Force Cosmik Psy Autres -- -- 20 Lanceur 
+Force Poigne Normal Physique 55 100 30 1 Oui
+Force-nature Normal Autres -- 95 20 ? 
+Forte-Paume Combat Physique 60 100 10 1 Oui
+Fouet Lianes Plante Physique 35 100 10 1 Oui
+Fracass'Tête Roche Physique 150 80 5 1 Oui
+Frappe Atlas Combat Physique -- 100 20 1 Oui
+Frenesie Normal Physique 20 100 20 1 Oui
+Frustration Normal Physique -- 100 20 1 Oui
+Fulmifer Acier Physique -- 100 10 Lanceur 
+Fulmigraine Plante Spécial 120 85 5 1 
+Furie Normal Physique 15 85 20 1 Oui
+Gaz Toxik Poison Autres -- 55 40 1 
+Gicledo Eau Spécial 150 100 5 2 
+Giga Impact Normal Physique 150 90 5 1 Oui
+Giga-sangsue Plante Spécial 60 100 5 1 
+Glaciation Glace Spécial -- 30 5 1 
+Glas De Soin Normal Autres -- -- 5 5 
+Gonflette Combat Autres -- -- 20 Lanceur 
+Gravité Sol Autres -- -- 5 Tous 
+Grele Glace Autres -- -- 10 Lanceur 
+Gribouille Normal Autres -- -- 1 1 
+Griffe Normal Physique 40 100 35 1 Oui
+Griffe Acier Acier Physique 50 95 35 1 Oui
+Griffe Ombre Spectre Physique 70 100 15 1 Oui
+Grimace Normal Autres -- 90 10 1 
+Grincement Normal Autres -- 85 40 1 
+Grobisou Normal Autres -- 75 10 1 
+Grondement Normal Autres -- -- 40 Lanceur 
+Groz'yeux Normal Autres -- 100 30 2 
+Guillotine Normal Physique -- 30 5 1 Oui
+Gyroballe Acier Physique -- 100 5 1 Oui
+Hate Psy Autres -- -- 30 Lanceur 
+Hurlement Normal Autres -- 100 20 1 
+Hurle-Temps Dragon Spécial 150 90 5 1 
+Hydroblast Eau Spécial 150 90 5 1 
+Hydrocanon Eau Spécial 120 85 5 1 
+Hydroqueue Eau Physique 90 90 10 1 Oui
+Hypnose Psy Autres -- 70 20 1 
+Imitation Psy Autres -- 100 10 1 
+Implore Normal Physique 40 100 40 1 
+Intimidation Normal Autres -- 75 30 1 
+Jackpot Normal Physique 40 100 20 1 
+Jet De Sable Sol Autres -- 100 15 1 
+Jet-pierres Roche Physique 50 90 15 1 
+Jugement Normal Spécial 100 100 10 1 
+Koud'korne Normal Physique 65 100 25 1 Oui
+Lait A Boire Normal Autres -- -- 10 Lanceur 
+Lame d'Air Vol Spécial 75 95 20 1 
+Lame de Roc Roche Physique 100 80 5 1 
+Lame-feuille Plante Physique 90 100 15 1 Oui
+Lance-boue Sol Autres -- 100 15 Lanceur 
+Lance-flamme Feu Spécial 95 100 15 1 
+Lance-soleil Plante Spécial 120 100 10 1 
+Larcin Tenebres Physique 40 100 10 1 Oui
+Laser Glace Glace Spécial 95 100 10 1 
+Lechouille Spectre Physique 20 100 30 1 Oui
+Ligotage Normal Physique 15 85 20 1 Oui
+Lilliput Normal Autres -- -- 20 Lanceur 
+Lire-esprit Normal Autres -- 100 5 1 
+Lumi-eclat Psy Spécial 70 100 5 1 
+Luminocanon Acier Spécial 80 100 10 1 
+Lumiqueue Insecte Autres -- 100 20 Lanceur 
+Lutte Normal Physique 50 100 1 1 Oui
+Mach Punch Combat Physique 40 100 30 1 Oui
+Machination Tenebres Autres -- -- 20 Lanceur 
+Machouille Tenebres Physique 80 100 15 1 Oui
+Malediction ? Autres -- -- 10 1 
+Mania Normal Physique 90 100 20 Aléatoire Oui
+Martobois Plante Physique 120 100 15 1 Oui
+Marto-Poing Combat Physique 100 90 10 1 Oui
+Massd'os Sol Physique 65 85 20 1 
+Mawashi Geri Combat Physique 60 85 15 1 Oui
+Megacorne Insecte Physique 120 85 10 1 Oui
+Mégafouet Plante Physique 120 85 10 1 Oui
+Megaphone Normal Spécial 90 100 10 2 
+Mega-sangsue Plante Spécial 40 100 10 1 
+Meteores Normal Spécial 60 -- 20 2 
+Metronome Normal Autres -- -- 10 ??? 
+Mimique Vol Autres -- -- 20 ? 
+Mimi-queue Normal Autres -- 100 30 2 
+Miroi-Tir Acier Spécial 65 85 10 1 
+Mitra-poing Combat Physique 150 100 20 1 Oui
+Moi d'Abord Normal Autres -- -- 20 Lanceur 
+Morphing Normal Autres -- -- 10 1 
+Morsure Tenebres Physique 60 100 25 1 Oui
+Mur De Fer Acier Autres -- -- 15 Lanceur 
+Mur Lumiere Psy Autres -- -- 30 Lanceur 
+Noeud Herbe Plante Spécial -- 100 20 1 Oui
+Ocroupi Eau Spécial 95 85 10 2 
+Octazooka Eau Spécial 65 85 10 1 
+Oeil Miracle Psy Autres -- -- 40 Lanceur 
+Ombre Portée Spectre Physique 40 100 30 1 Oui
+Onde Boreale Glace Spécial 65 100 20 1 
+Onde De Choc Electrik Spécial 60 -- 20 1 
+Onde Folie Spectre Autres -- 100 10 1 
+Onde Vide Combat Spécial 40 100 30 1 
+Osmerang Sol Physique 50 90 10 1 
+Ouragan Dragon Spécial 40 100 20 2 
+Par Ici Normal Autres -- 100 20 Lanceur 
+Para-spore Plante Autres -- 75 30 1 
+Paresse Normal Autres -- 100 10 Lanceur 
+Passe-Passe Tenebres Autres -- 100 10 1 
+Patience Normal Physique -- 100 10 Lanceur Oui
+Permucoeur Psy Autres -- -- 10 1 
+Permuforce Psy Autres -- -- 10 1 
+Permugarde Psy Autres -- -- 10 1 
+Photocopie Normal Autres -- -- 20 ??? 
+Picanon Normal Physique 20 100 15 1 
+Picore Vol Physique 60 100 20 1 Oui
+Picots Sol Autres -- -- 20 2 
+Picpic Vol Physique 35 100 35 1 Oui
+Pics Toxik Poison Autres -- -- 20 2 
+Pied Bruleur Feu Physique 82 90 10 1 Oui
+Pied Saute Combat Physique 85 95 25 1 Oui
+Pied Voltige Combat Physique 100 90 20 1 Oui
+Piège de Roc Roche Autres -- -- 20 2 
+Pilonnage Normal Physique 15 85 20 1 
+Pince-masse Eau Physique 90 85 10 1 Oui
+Pique Vol Physique 140 90 5 1 
+Piqûre Insecte Physique 60 100 20 1 Oui
+Pistolet A O Eau Spécial 40 100 25 1 
+Pisto-Poing Acier Physique 40 100 30 1 Oui
+Plaie-Croix Insecte Physique 80 100 15 1 Oui
+Plaquage Normal Physique 85 100 15 1 Oui
+Plenitude Psy Autres -- -- 20 Lanceur 
+Plongee Eau Physique 80 100 10 1 Oui
+Poing Comete Normal Physique 18 85 15 1 Oui
+Poing Dard Plante Physique 60 100 15 1 Oui
+Poing De Feu Feu Physique 75 100 15 1 
+Poing Meteor Acier Physique 100 85 10 1 Oui
+Poing Ombre Spectre Physique 60 -- 20 1 Oui
+Poing-eclair Electrik Physique 75 100 15 1 Oui
+Poing-karate Combat Physique 50 100 25 1 Oui
+Poinglace Glace Physique 75 100 15 1 Oui
+Poison-Croix Poison Physique 70 100 20 1 Oui
+Poliroche Roche Autres -- -- 20 Lanceur 
+Possessif Psy Autres -- 100 10 Lanceur 
+Poudre Dodo Plante Autres -- 75 15 1 
+Poudre Toxik Poison Autres -- 75 35 1 
+Poudreuse Glace Spécial 40 100 25 2 
+Poursuite Tenebres Physique 40 100 20 1 Oui
+Pouv.antique Roche Spécial 60 100 5 1 Oui
+Prescience Psy Spécial 80 90 15 1 
+Presse Normal Physique -- 100 5 1 Oui
+Prlvt Destin Spectre Autres -- -- 5 Lanceur 
+Protection Psy Autres -- -- 20 Lanceur 
+Provoc Tenebres Autres -- 100 20 1 
+Psycho Boost Psy Spécial 140 90 5 1 
+Psyko Psy Spécial 90 100 10 1 
+Psykoud'Boul Psy Physique 80 90 15 1 Oui
+Puis. Cachee Normal Spécial -- 100 15 1 
+Puissance Normal Autres -- -- 30 Lanceur 
+Punition Tenebres Physique -- 100 5 1 Oui
+Puredpois Poison Spécial 20 70 20 1 
+Queue De Fer Acier Physique 100 75 15 1 Oui
+Queue-poison Poison Physique 50 100 25 1 Oui
+Racines Plante Autres -- 100 20 Lanceur 
+Rafale Feu Feu Spécial 150 90 5 1 
+Rafale Psy Psy Spécial 65 100 20 1 
+Rancune Spectre Autres -- 100 5 Lanceur 
+Rapace Vol Physique 120 100 15 1 Oui
+Rayon Chargé Electrik Spécial 50 90 10 1 
+Rayon Gemme Roche Spécial 70 100 20 1 
+Rayon Lune Normal Autres -- -- 5 Lanceur 
+Rayon Signal Insecte Spécial 75 100 15 1 
+Rebond Vol Physique 85 85 5 1 Oui
+Recyclage Normal Autres -- 100 10 Lanceur 
+Reflet Normal Autres -- -- 15 Lanceur 
+Reflet Magik Psy Autres -- 100 15 ? 
+Regard Noir Normal Autres -- 100 5 1 
+Regeneration Normal Autres -- 100 20 Lanceur 
+Relache Normal Spécial -- 100 10 1 
+Relais Normal Autres -- -- 40 Lanceur 
+Repli Eau Autres -- -- 40 Lanceur 
+Repos Psy Autres -- -- 10 Lanceur 
+Représailles Tenebres Physique 50 100 10 1 Oui
+Requiem Normal Autres -- -- 5 Tous 
+Retour Normal Physique -- 100 20 1 Oui
+Réveil Forcé Combat Physique 60 100 10 1 Oui
+Revenant Spectre Physique 120 100 5 1 Oui
+Riposte Combat Physique -- 100 20 ??? Oui
+Roc-Boulet Roche Physique 150 90 5 1 
+Ronflement Normal Spécial 40 100 15 1 
+Roue De Feu Feu Physique 60 100 25 1 Oui
+Roulade Roche Physique 30 90 20 1 Oui
+Rugissement Normal Autres -- 100 40 2 
+Rune Protect Normal Autres -- -- 25 Lanceur 
+Ruse Normal Physique 50 100 10 1 
+Sabotage Tenebres Physique 20 100 20 1 Oui
+Sacrifice Combat Physique 80 80 25 1 Oui
+Saisie Tenebres Autres -- 100 10 ??? 
+Saumure Eau Spécial 65 100 10 1 
+Secretion Insecte Autres -- 95 40 2 
+Séduction Normal Autres -- 100 20 2 
+Seisme Sol Physique 100 100 10 3 
+Siffl'herbe Plante Autres -- 55 15 1 
+Siphon Eau Spécial 15 70 15 1 
+Soin Normal Autres -- -- 20 Lanceur 
+Sonicboom Normal Spécial -- 90 20 1 
+Soucigraine Plante Autres -- 100 10 1 
+Souplesse Normal Physique 80 75 20 1 Oui
+Souvenir Tenebres Autres -- 100 10 1 
+Spatio-Rift Dragon Spécial 100 95 5 1 
+Spore Plante Autres -- 100 15 1 
+Spore Coton Plante Autres -- 85 40 1 
+Stalagtite Glace Physique 10 100 30 1 
+Stimulant Normal Physique 60 100 10 1 Oui
+Stockage Normal Autres -- -- 10 Lanceur 
+Stratopercut Combat Physique 85 90 15 1 Oui
+Strido-son Acier Autres -- 85 40 1 
+Suc Digestif Poison Autres -- 100 10 1 
+Surchauffe Feu Spécial 140 90 5 1 Oui
+Surf Eau Spécial 95 100 15 3 
+Surpuissance Combat Physique 120 100 5 1 Oui
+Synthese Plante Autres -- -- 5 Lanceur 
+Taillade Insecte Physique 10 95 20 1 Oui
+Telekinesie Psy Autres -- 80 15 1 
+Teleport Psy Autres -- -- 20 Lanceur 
+Telluriforce Sol Spécial 90 100 10 1 
+Tempetesable Roche Autres -- -- 10 Lanceur 
+Tempêteverte Plante Spécial 140 90 5 1 
+Tenacite Normal Autres -- -- 10 Lanceur 
+Tenebres Spectre Spécial -- 100 15 1 
+Tête de Fer Acier Physique 80 100 15 1 Oui
+Tir De Boue Sol Spécial 55 95 15 1 
+Toile Insecte Autres -- 100 10 1 
+Tomberoche Roche Physique 50 80 10 1 
+Tonnerre Electrik Spécial 95 100 15 1 
+Torgnoles Normal Physique 15 85 10 1 Oui
+Tornade Vol Spécial 40 100 35 1 
+Tour Rapide Normal Physique 20 100 4 1 Oui
+Tourbi-sable Sol Physique 15 70 15 1 
+Tourmagik Psy Autres -- 100 10 1 
+Tourmente Tenebres Autres -- 100 15 1 
+Tourniquet Eau Autres -- 100 15 Lanceur 
+Toxik Poison Autres -- 85 10 1 
+Tranch'air Vol Spécial 55 95 25 2 
+Tranche Normal Physique 70 100 20 1 Oui
+Tranche-Nuit Tenebres Physique 70 100 15 1 Oui
+Tranch'herbe Plante Physique 55 95 25 2 
+Trempette Normal Autres -- -- 40 Lanceur 
+Triplattaque Normal Spécial 80 100 10 1 
+Triple Pied Combat Physique 10 90 10 1 Oui
+Trou Noir Tenebres Autres -- 80 10 2 
+Tunnel Sol Physique 80 100 10 1 Oui
+Ultimapoing Normal Physique 80 85 20 1 Oui
+Ultimawashi Normal Physique 120 75 5 1 Oui
+Ultralaser Normal Spécial 150 90 5 1 
+Ultrason Normal Autres -- 55 20 1 
+Uppercut Normal Physique 70 100 10 1 Oui
+Vague Psy Psy Spécial -- 80 15 1 
+Vampigraine Plante Autres -- 90 10 1 
+Vampipoing Combat Physique 60 100 5 Oui
+Vampirisme Insecte Spécial 20 100 15 1 Oui
+Vantardise Normal Autres -- 90 15 1 
+Vege-attak Plante Spécial 150 90 5 1 
+Vendetta Combat Physique 60 100 10 1 Oui
+Vent Argente Insecte Spécial 60 100 5 1 
+Vent Arrière Vol Autres -- -- 30 2 
+Vent Glace Glace Spécial 55 95 15 2 
+Vent Mauvais Spectre Spécial 60 100 5 1 
+Verrouillage Normal Autres -- 100 5 1 
+Vibraqua Eau Spécial 60 100 20 1 
+Vibrobscur Tenebres Spécial 85 100 15 1 
+Vit.extreme Normal Physique 80 100 5 1 Oui
+Vive-attaque Normal Physique 40 100 30 1 Oui
+Voeu Normal Autres -- 100 10 Lanceur 
+Voeu Soin Psy Autres -- -- 10 Lanceur 
+Voile Miroir Psy Spécial -- 100 20 ? 
+Vol Vol Physique 90 95 15 1 Oui
+Vol Magnétik Electrik Autres -- -- 10 Lanceur 
+Vol-vie Plante Spécial 20 100 20 1 
+Vortex Magma Feu Spécial 120 70 5 1 
+Yoga Psy Autres -- -- 40 Lanceur 
+Zenith Feu Autres -- -- 5 Tous 
